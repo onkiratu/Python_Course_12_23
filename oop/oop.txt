@@ -1,0 +1,5 @@
+1. method =  a function inside a class. 
+
+2. Object - instance of a class
+3. Decorator - changes the behaviour of a function
+4. csv files should not have spaces 
